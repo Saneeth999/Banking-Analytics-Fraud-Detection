@@ -37,7 +37,7 @@ The project answers 15 analytical business questions, including:
 15. Total fraud cases per branch
 ---
 
-## 🛠 SQL Concepts Used
+##  SQL Concepts Used
 
 * INNER JOIN / LEFT JOIN
 * GROUP BY & HAVING
@@ -50,7 +50,7 @@ The project answers 15 analytical business questions, including:
 
 ---
 
-## 🗂 Database Schema
+##  Database Schema
 
 Tables used:
 
@@ -64,7 +64,7 @@ Each table is connected using primary and foreign keys to maintain relational in
 
 ---
 
-## 🚀 Key Insights Generated
+##  Key Insights Generated
 
 * Identified high-risk branches based on fraud cases
 * Detected high-value and suspicious transactions
@@ -74,14 +74,14 @@ Each table is connected using primary and foreign keys to maintain relational in
 
 ---
 
-## 💻 Tools Used
+##  Tools Used
 
 * PostgreSQL
 * SQL
 
 ---
 
-## 📈 Project Outcome
+##  Project Outcome
 
 This project strengthened my ability to:
 
